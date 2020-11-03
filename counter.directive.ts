@@ -1,5 +1,5 @@
 import{
-    Directive, ViewContainerRef, TemplateRef, Input, Atribute, SimpleChanges
+    Directive, ViewContainerRef, TemplateRef, Input, Attribute, SimpleChanges
 } from "@angular/core";
 
 @Directive({
